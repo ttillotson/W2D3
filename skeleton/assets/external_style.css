@@ -1,0 +1,36 @@
+/* <css> */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: purple;
+
+}
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol {
+  list-style: square inside;
+}
+
+header img {
+  width: 100px;
+
+}
+
+ul>li>a {
+  color: inherit
+}
+
+#_review {
+  font-family: fantasy;
+}
