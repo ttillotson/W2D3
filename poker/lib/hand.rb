@@ -1,8 +1,6 @@
 require 'byebug'
 
-class Cards
-
+class Hand
   def initialize
-
   end
 end
